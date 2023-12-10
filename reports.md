@@ -6,7 +6,7 @@
 
    1. luminance threshold. Can't distinguish 206/207 from the other cameras.
 
-   ![image-20231210145612115](/home/dev/Documents/oiler/docs/weekly-reports/reports.assets/image-20231210145612115.png)
+   ![image-20231210145612115](reports.assets/image-20231210145612115.png)
 
 2. 
 
